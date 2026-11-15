@@ -26,6 +26,7 @@ Solutions are synced using LeetHub.
 ## Array
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imroshan737-gif/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/imroshan737-gif/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |
@@ -34,5 +35,14 @@ Solutions are synced using LeetHub.
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imroshan737-gif/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/imroshan737-gif/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+## Math
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imroshan737-gif/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imroshan737-gif/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
