@@ -26,6 +26,7 @@ Solutions are synced using LeetHub.
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/imroshan737-gif/leetcode/tree/master/0035-search-insert-position) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imroshan737-gif/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/imroshan737-gif/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
@@ -53,4 +54,8 @@ Solutions are synced using LeetHub.
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/imroshan737-gif/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/imroshan737-gif/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
