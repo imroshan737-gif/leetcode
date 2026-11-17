@@ -46,10 +46,12 @@ Solutions are synced using LeetHub.
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imroshan737-gif/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/imroshan737-gif/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## String
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/imroshan737-gif/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/imroshan737-gif/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Simulation
 |  |
 | ------- |
@@ -58,4 +60,8 @@ Solutions are synced using LeetHub.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/imroshan737-gif/leetcode/tree/master/0035-search-insert-position) |
+## Two Pointers
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/imroshan737-gif/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 <!---LeetCode Topics End-->
