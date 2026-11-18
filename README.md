@@ -52,6 +52,7 @@ Solutions are synced using LeetHub.
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/imroshan737-gif/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/imroshan737-gif/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/imroshan737-gif/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Simulation
 |  |
 | ------- |
