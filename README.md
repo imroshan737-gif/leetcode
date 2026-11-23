@@ -27,6 +27,7 @@ Solutions are synced using LeetHub.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/imroshan737-gif/leetcode/tree/master/0035-search-insert-position) |
+| [1352-product-of-the-last-k-numbers](https://github.com/imroshan737-gif/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imroshan737-gif/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/imroshan737-gif/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/imroshan737-gif/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -39,11 +40,13 @@ Solutions are synced using LeetHub.
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/imroshan737-gif/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imroshan737-gif/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/imroshan737-gif/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/imroshan737-gif/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imroshan737-gif/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
 |  |
@@ -92,4 +95,12 @@ Solutions are synced using LeetHub.
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/imroshan737-gif/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/imroshan737-gif/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/imroshan737-gif/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
