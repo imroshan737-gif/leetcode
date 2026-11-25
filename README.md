@@ -34,6 +34,7 @@ Solutions are synced using LeetHub.
 | [3331-find-subtree-sizes-after-changes](https://github.com/imroshan737-gif/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/imroshan737-gif/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/imroshan737-gif/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3934-smallest-unique-subarray](https://github.com/imroshan737-gif/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Solutions are synced using LeetHub.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/imroshan737-gif/leetcode/tree/master/0035-search-insert-position) |
+| [3934-smallest-unique-subarray](https://github.com/imroshan737-gif/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Solutions are synced using LeetHub.
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/imroshan737-gif/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/imroshan737-gif/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Tree
 |  |
 | ------- |
@@ -114,4 +117,16 @@ Solutions are synced using LeetHub.
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/imroshan737-gif/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/imroshan737-gif/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/imroshan737-gif/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/imroshan737-gif/leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
