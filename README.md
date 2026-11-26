@@ -26,6 +26,7 @@ Solutions are synced using LeetHub.
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/imroshan737-gif/leetcode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/imroshan737-gif/leetcode/tree/master/0035-search-insert-position) |
 | [1352-product-of-the-last-k-numbers](https://github.com/imroshan737-gif/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imroshan737-gif/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -80,6 +81,7 @@ Solutions are synced using LeetHub.
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/imroshan737-gif/leetcode/tree/master/0018-4sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/imroshan737-gif/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Greedy
 |  |
@@ -88,6 +90,7 @@ Solutions are synced using LeetHub.
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/imroshan737-gif/leetcode/tree/master/0018-4sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/imroshan737-gif/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/imroshan737-gif/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Hash Table
