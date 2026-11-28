@@ -37,6 +37,7 @@ Solutions are synced using LeetHub.
 | [3411-maximum-subarray-with-equal-products](https://github.com/imroshan737-gif/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/imroshan737-gif/leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/imroshan737-gif/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/imroshan737-gif/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -90,12 +91,14 @@ Solutions are synced using LeetHub.
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/imroshan737-gif/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/imroshan737-gif/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/imroshan737-gif/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/imroshan737-gif/leetcode/tree/master/0018-4sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/imroshan737-gif/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/imroshan737-gif/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/imroshan737-gif/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,4 +140,8 @@ Solutions are synced using LeetHub.
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/imroshan737-gif/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/imroshan737-gif/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
